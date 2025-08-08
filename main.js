@@ -34,3 +34,4 @@ forcaSenha.classList.add('media');
 forcaSenha.classList.add('fraca');
 }
 }
+..mj
